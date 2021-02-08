@@ -38,20 +38,20 @@ value = 'X';
 addClassEmpty();
 
 
-div_x.addEventListener('click',div_x_updateValue);
-function div_x_updateValue(event){
-    event.preventDefault();
-    value = 'X';
-    console.log(div_0);
-    console.log(counter);
-}
+// div_x.addEventListener('click',div_x_updateValue);
+// function div_x_updateValue(event){
+//     event.preventDefault();
+//     value = 'X';
+//     console.log(div_0);
+//     console.log(counter);
+// }
 
-div_o.addEventListener('click',div_o_updateValue);
-function div_o_updateValue(event){
-    event.preventDefault();
-    value = 'O';
-    console.log(div_0);
-}
+// div_o.addEventListener('click',div_o_updateValue);
+// function div_o_updateValue(event){
+//     event.preventDefault();
+//     value = 'O';
+//     console.log(div_0);
+// }
 
 
     // add Listener
